@@ -1,0 +1,6 @@
+{
+  "name": "MISA Remote Portal - Báo Cáo Kế Toán Từ Xa",
+  "description": "Cổng xem báo cáo kế toán MISA SME từ xa qua trình duyệt web trên máy tính và điện thoại mà không cần cài đặt phần mềm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
